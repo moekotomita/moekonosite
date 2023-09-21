@@ -1,0 +1,194 @@
+.namae-kakutoko h1{
+                           
+                           margin-top:8%;  
+                           margin-bottom: 0px;
+                            text-align: center;
+                              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                              font-weight: 800px;
+}
+
+.pacwebteam{
+                              text-align: center;
+                              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                              font-weight: bold;
+                              color: #ff652d;
+}    
+
+.moji1{
+                           
+                           margin-top: 20%;    font-size: 40px;  text-align: left;
+                           padding: 60px;
+                           font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                           color: #ffffff;
+                           background-color: #333333;
+
+
+}
+
+.moji2{
+                           
+                              margin-top: 20%;    font-size: 40px;  text-align: left;
+                              padding: 60px;
+                              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                              color: #ffffff;
+                              background-color: #333333;
+   
+   
+   }
+
+
+.music-pic{
+                              display: flex;
+                              flex-direction: column;
+}
+
+.music1{
+                              display: flex;
+                              flex-direction: row;
+}
+.music2{
+                              display: flex;
+                              flex-direction: row;
+}
+.music3{
+                              display: flex;
+                              flex-direction: row;
+}
+
+.image_33{
+                              width: 33%;
+                              margin:2px;
+}
+
+.profile img{
+                              margin-top: 20%;
+width: 100%;
+}
+
+.profile p{
+                              font-size: 20px;
+                              text-align:center ;
+                              margin-top: 10%;
+               font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.profile{
+                              display: flex;
+              justify-content: space-around;
+
+
+}
+
+
+.information{
+                              margin-top: 10%;
+                              padding-left: 1px;
+                              font-weight: bold;
+}
+
+.yohaku{
+                               width: 40%;                   
+}
+
+.no-comics-no-life img{
+                              width:100%;
+                              margin-top:10%;
+}
+.yohaku2{
+                              flex-basis: 50%;
+}
+
+.yohaku3{
+                              flex-basis: 50%;
+}
+
+
+.dekaiwaku{
+                             margin: 0%
+                             ; display: flex;
+                              flex-direction: column;
+}
+
+.no-comics-no-life{
+                              display:flex ;
+
+                              justify-content: space-around;
+}
+
+.no-comics-no-life2{
+                              margin-top: 0%;
+                              display:flex ;
+                              justify-content: space-around;
+
+}
+
+.no-comics-no-life3{
+                              margin-top: 0%;
+                              display:flex ;
+                              justify-content: space-around; }
+
+.information2{
+                              margin-top: 10%;
+                              padding-left: 1px;
+                              flex-basis: 50%;
+}
+
+.information2 p{
+                              margin-top:0%;
+                              padding-left: 1px;
+                              text-align: center;
+}
+
+.information3 p{
+                              margin-top:0%;
+                              padding-left: 1px;
+                              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                              text-align: center;
+}
+
+.text{
+                              font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Sawarabi Gothic', sans-serif;
+                      
+
+}
+
+
+.daimei{
+                               font-size: 40px;
+                               text-align:center ;
+                               margin-top: 30%;
+                               font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;      
+}
+
+.daimei1{
+                              font-size: 40px;
+                              text-align:center ;
+                              margin-top: 30%;
+                              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;      
+                            
+
+}
+
+
+
+.blue-period{
+                              width:100% ;
+}
+
+
+
+.information3{
+                              flex-basis: 50%;
+                              margin-top:10%;
+}
+
+.information3 p{
+                              margin-top:0%;
+                              padding-left:1px;
+                              font-family: 'M PLUS Rounded 1c', sans-serif;
+                              font-family: 'Sawarabi Gothic', sans-serif;
+                              text-align:center;
+
+}
+
